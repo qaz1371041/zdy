@@ -27,7 +27,7 @@
 "ssjiequhou": "空",
 "ssjiequshuzuqian": "class=\"uk-width-1-5",
 "ssjiequshuzuhou": "</a>",
-"sstupianqian": "src=\"",
+"sstupianqian": "data-original=\"",
 "sstupianhou": "\"",
 "ssbiaotiqian": "alt=\"",
 "ssbiaotihou": "\"",
